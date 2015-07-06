@@ -1,0 +1,3 @@
+1. All package names shud start wd smalll letters
+2. All classes inside the package shud start wd caps letter
+3. Run a java program by right clicking on the programa nd clicking on run as java program
